@@ -7,5 +7,15 @@ Twitter Follower
 
 <pre>
       gem install twitter
-      CONSUMER_KEY=your_key CONSUMER_SECRET=%your_consumer_secret% OAUTH_TOKEN=%oauth_token% OAUTH_TOKEN_SECRET=%oauth_token_secret% ruby twitter_followers.rb
+      CONSUMER_KEY=your_key
+      CONSUMER_SECRET=%your_consumer_secret%
+      OAUTH_TOKEN=%oauth_token%
+      OAUTH_TOKEN_SECRET=%oauth_token_secret%
+</pre>
+
+Run the script
+-----------
+
+<pre>
+  ruby twitter_followers.rb
 </pre>

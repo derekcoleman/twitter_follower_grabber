@@ -1,5 +1,8 @@
 Twitter Follower
-------------
+================
+
+Setup
+---------------
 
 * visit https://dev.twitter.com/apps/new to register your app
 * generate your oauth tokens (this is done after you create your app in twitter)

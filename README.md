@@ -1,5 +1,7 @@
 Twitter Follower
 ================
+This app is a short demo that grabs all the twitter followers for a given user.
+
 
 Setup
 ---------------

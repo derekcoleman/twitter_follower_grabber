@@ -12,10 +12,10 @@ Setup
 
 <pre>
       gem install twitter
-      CONSUMER_KEY=your_key
-      CONSUMER_SECRET=%your_consumer_secret%
-      OAUTH_TOKEN=%oauth_token%
-      OAUTH_TOKEN_SECRET=%oauth_token_secret%
+      FOLLOWERS_CONSUMER_KEY=your_key
+      FOLLOWERS_CONSUMER_SECRET=%your_consumer_secret%
+      FOLLOWERS_OAUTH_TOKEN=%oauth_token%
+      FOLLOWERS_OAUTH_TOKEN_SECRET=%oauth_token_secret%
 </pre>
 
 Run the script
